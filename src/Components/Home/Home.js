@@ -16,7 +16,7 @@ export default function Home() {
       <br/>
 
       <p>Our POS solution transforms how you manage your <br/>
-        inventory and run your business. You do not need to <br/>
+        inventory and run your businesses. You do not need to <br/>
         acquire any sophisticated equipment or have IT <br/>
         knowledge to use it 
       </p>
