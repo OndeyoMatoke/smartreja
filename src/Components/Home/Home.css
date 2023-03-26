@@ -1,0 +1,11 @@
+.homediv {
+    position: absolute;
+    right: 3rem;
+  }
+
+
+
+.homediv signup-signin{
+    display: flex;
+    justify-content: center;
+}
